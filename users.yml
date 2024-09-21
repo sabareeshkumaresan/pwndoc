@@ -1,0 +1,16 @@
+- username: sabareesh
+  password: $2b$10$1LG/Vgs0mbYkn7lUq0NBl.dtG2S0hnL99xLb5wWgo2FzBkmP8v7Ji
+  firstname: sabareesh
+  lastname: vk
+  role: admin
+  totpEnabled: false
+  enabled: true
+- username: ariharasuthan
+  password: $2b$10$Z5NMEzX8GRU.t1b5CpIbJ.nR1tMsql9N5HiFgsF/aHtsW.6MDX0Iq
+  firstname: ariharasuthan
+  lastname: vk
+  email: vkariharasuthan90@gmail.com
+  phone: '6382472265'
+  role: admin
+  totpEnabled: false
+  enabled: true
